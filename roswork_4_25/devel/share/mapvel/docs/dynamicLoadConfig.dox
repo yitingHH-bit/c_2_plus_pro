@@ -1,0 +1,14 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~pathnum" : \b [double] the path num min: 1.0, default: 4.0, max: 8.0
+- \b "~sureStopLine" : \b [double] sure draw the stopline min: 0.0, default: 1.0, max: 1.0
+- \b "~lan_width" : \b [double] the path width min: 2.0, default: 3.2, max: 5.0
+- \b "~lan_long" : \b [double] the path long min: 0.0, default: 400.0, max: 1000.0
+- \b "~lan_halflong" : \b [double] the half path long min: 0.0, default: 200.0, max: 500.0
+- \b "~org_x" : \b [double] the  x coodration of org min: -100.0, default: -6.0, max: 100.0
+- \b "~org_y" : \b [double] the  y coodration of org min: -100.0, default: 0.0, max: 100.0
+- \b "~theta_deg" : \b [double] the clockwise rotation angel of path min: -45.0, default: 0.0, max: 45.0
+- \b "~interval" : \b [double] the interval of equidistant line min: 0.0, default: 25.0, max: 100.0
+

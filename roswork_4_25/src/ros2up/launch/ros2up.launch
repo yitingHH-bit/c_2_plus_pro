@@ -1,0 +1,6 @@
+<!-- mmlidar -->
+<launch>
+  <node pkg="ros2up" name="ros2up" type ="ros2up" respawn="True" output="screen">
+      <param name = "sure_sendVehs" type = "bool" value = "false" />
+  </node>
+</launch>

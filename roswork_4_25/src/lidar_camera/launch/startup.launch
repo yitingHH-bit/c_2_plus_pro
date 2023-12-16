@@ -1,0 +1,21 @@
+<!-- test -->
+<launch>
+  <rosparam file="$(find lidar_camera)/config/camTparam.yaml" command="load" />
+  <rosparam file="$(find lidar_camera)/config/LanInfo.yaml" command="load" />
+  <rosparam file="$(find lidar_camera)/config/NetworkInfo.yaml" command="load" />
+  <rosparam file="$(find lidar_camera)/config/StatisInfo.yaml" command="load" />
+  <rosparam file="$(find lidar_camera)/config/InstallInfo.yaml" command="load" />
+  <rosparam file="$(find lidar_camera)/config/VideoStreamset.yaml" command="load" />
+
+  <node pkg="lidar_camera" name="statis_node" type ="statis_node" respawn="True" output="screen"/>
+  <node pkg="lidar_camera" name="setting_node" type ="setting.py" respawn="True" output="screen"/>
+  <include file="$(find ros2up)/launch/ros2up.launch"/>
+  <!--include file="$(find ros2tra)/launch/ros2tra.launch"/-->
+
+  <node pkg="csicamera" name="pubimage" type ="pubimage" output="screen" respawn="True"/>
+  <node pkg="mmlidar" name="mmlidar_pub" type ="lidardata_pub_tcp_txt.py" respawn="True" output="screen"/>
+  <!--node pkg="bdinfo" name="timeManager_node" type ="Time.py" respawn="True" output="screen"/-->
+
+  <!--include file="$(find mapvel)/launch/mapVeh.launch"/-->
+
+</launch>

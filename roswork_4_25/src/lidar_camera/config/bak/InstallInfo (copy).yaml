@@ -1,0 +1,29 @@
+##Device Install param
+
+#x,y,z,yaw(z),pitch(y),roll(x)
+MainInstallParam: [0,0,10,1.0,0,0]
+AuxiliaryParamCount: 8
+AuxiliaryInstallParam: 
+  "1": [0,0,0,0,0,0]
+  "2": [0,0,0,0,0,0]
+  "3": [0,0,0,0,0,0]
+  "4": [0,0,0,0,0,0]
+  "5": [0,0,0,0,0,0]
+  "6": [0,0,0,0,0,0]
+  "7": [0,0,0,0,0,0]
+  "8": [0,0,0,0,0,0]
+
+
+
+#系统坐标系方向
+# Zz
+#  z 
+#  z       y
+#  z     y
+#  z   y
+#  z y
+#  o x x x x x x
+#              X
+#
+
+

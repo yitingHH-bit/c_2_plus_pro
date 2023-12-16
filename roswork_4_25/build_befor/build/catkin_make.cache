@@ -1,0 +1,2 @@
+all_msgs_srvs:bdinfo:csicamera:lidar_camera:mapvel:mmlidar:ros2tra:ros2up
+-DCATKIN_DEVEL_PREFIX=/home/hsax/roswork/devel -DCMAKE_INSTALL_PREFIX=/home/hsax/roswork/install -G Unix Makefiles

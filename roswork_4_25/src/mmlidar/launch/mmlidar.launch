@@ -1,0 +1,18 @@
+<!-- mmlidar -->
+<launch>
+ 
+  <arg name = "host" default = "192.168.203.99"/>
+  <arg name = "port" default = "8898" />
+  <arg name = "baud" default = "9600" />
+  <arg name = "saveSure" default = "False" />
+
+  <node pkg="mmlidar" name="mmlidar_pub" type ="lidardata_pub_tcp.py" respawn="True" output="screen">
+      <param name = "host" type = "string" value = "$(arg host)" />
+      <param name = "port" type = "int" value = "$(arg port)" />
+      <param name = "baud" type = "int" value = "$(arg baud)" />
+      <param name = "saveSure" type = "bool" value = "$(arg saveSure)" />
+  </node>
+
+  <node pkg="tf" type="static_transform_publisher" name="mmlidarlink_to_baselink" args="0 0 0 0 0 0 base_link my_frame 100" />
+
+</launch>

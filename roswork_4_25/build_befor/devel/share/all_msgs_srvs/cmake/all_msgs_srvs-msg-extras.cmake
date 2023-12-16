@@ -1,0 +1,2 @@
+set(all_msgs_srvs_MESSAGE_FILES "/home/hsax/roswork/src/all_msgs_srvs/msg/errorMsgs.msg;/home/hsax/roswork/src/all_msgs_srvs/msg/settings.msg;/home/hsax/roswork/src/all_msgs_srvs/msg/systemlog.msg;/home/hsax/roswork/src/all_msgs_srvs/msg/systemState.msg;/home/hsax/roswork/src/all_msgs_srvs/msg/vehicalmsgs.msg;/home/hsax/roswork/src/all_msgs_srvs/msg/bdinfomsg.msg")
+set(all_msgs_srvs_SERVICE_FILES "/home/hsax/roswork/src/all_msgs_srvs/srv/settingcallback.srv")

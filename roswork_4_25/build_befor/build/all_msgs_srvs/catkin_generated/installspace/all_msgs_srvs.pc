@@ -1,0 +1,8 @@
+prefix=/home/hsax/roswork/install
+
+Name: all_msgs_srvs
+Description: Description of all_msgs_srvs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/hsax/roswork/devel
+
+Name: csicamera
+Description: Description of csicamera
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

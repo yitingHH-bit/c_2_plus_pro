@@ -1,0 +1,11 @@
+##Statis param
+
+StatisPeriod: 1  #s
+DistanceStopLine: 30 #m
+CheckDLong: 2.5 #m
+VehicalLong: [15,10,5] #m,ABC
+nCount: 1
+StatisPosition:
+  "1": [2,[50,2.5],[90,2.5]]
+
+

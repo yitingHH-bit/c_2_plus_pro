@@ -1,0 +1,96 @@
+##param
+#是否在本机进行显示图像
+display_param:
+  width: 1280
+  height: 720
+  isure: false
+
+#相机获取图像的参数
+img_param:
+  width: 1920
+  height: 1080
+  fps: 30
+  method: 1 #相机的端口号
+  bufflen: 3 #图像buffer的长度
+
+#相机框对每一种车的向上脱离地面的偏移补偿
+offset_h:
+  car: 1
+  bus: 2
+  trian: 2.5
+
+#图像的保存设置
+save_param:
+  path: "//media//hsax//Pic"
+  isure: false
+  iTimeName: true
+
+#图像tcp发送的标志
+tcp_param:
+  isure: false
+
+#图像关于雷达数据的过滤范围，包括框的放缩因子
+rect_param:
+  isure: true
+  scale_x_min: -20.0
+  scale_x_max: 20.0
+  scale_y_min: 35.0
+  scale_y_max: 150.0
+  rect_scale: 1.0
+
+#相机内参
+camera_matrix_k:
+  rows: 3
+  cols: 3
+  data: [3530.71321,     0.     ,   812.48887,
+             0.     ,  3516.88509,   658.78576,
+             0.     ,     0.     ,     1.    ]
+
+#系统监控报警值
+Alarm_value :
+  temperature: 70
+  occ_RAM: 90
+  occ_CPU: 90
+  occ_GPU: 1000
+  occ_memory_sda1: 10
+  occ_memory_home: 1
+
+#排队长度统计的相关参数设置
+Queue:
+  flush_head: 2.5
+  flush_tail: 15.0
+  sure_queue_km: 5
+  sure_queue_dis: 1.5
+  cancel_queue_km: 10.0
+  cancel_queue_dis: 1.0
+
+#北斗接口，和定时更行的时间，小时
+BDPORT: "/dev/ttyUSB0"
+TIME_INTERVAL: 6
+
+#网口名称，用于获取ip,netmask等信息
+NETNAME: "eth1"
+
+#配置文件路径 /home/hsax/roswork/src/lidar_camera/config
+CONFIG_PATH: "/home/hsax/roswork/src/lidar_camera/config/"
+
+#各高度下计算矩阵的路径
+CLI_PATH: "/home/hsax/roswork/src/csicamera/config/Transform"
+#Log日志储存的路径
+LOG_PATH: "/home/hsax/roswork/src/lidar_camera/Log/"
+
+#StatisInfo Path
+LAN_INFO_PATH: "/home/hsax/roswork/src/lidar_camera/config/LanInfo.yaml"
+
+#制造商设备信息
+MANUFACTURER_NAME: "hsax"
+EQUIPMENT_MODEL: "LS01"
+TEST_ITEMS: 0x0003
+TEST_MAX_CHANNEL: 96 
+DETECTION_MODE: 3 #1线圈，2视频，3雷达，4其他
+SIGNAL_DELAY_TIME: 10 #单位，10ms
+
+  
+
+
+

@@ -1,0 +1,46 @@
+##param
+display_param:
+  width: 1280
+  height: 720
+  isure: true
+
+img_param:
+  width: 1920
+  height: 1080
+  fps: 30
+  method: 0
+
+save_param:
+  path: "//media//prototype//sda1//Pic"
+  isure: false
+  iTimeName: true
+
+tcp_param:
+  iClient: true
+  upper_ip: "192.168.2.200"
+  upper_port: 9339
+  isure: true
+
+rect_param:
+  isure: true
+  scale_x_min: -20.0
+  scale_x_max: 20.0
+  scale_y_min: 40.0
+  scale_y_max: 150.0
+
+camera_matrix_k:
+  rows: 3
+  cols: 3
+  data: [ 857.361 ,     0.     ,   623.591,
+             0.     ,  960.00,   343.250,
+             0.     ,     0.     ,     1.     ]
+projection_matrix_rt:
+  rows: 3
+  cols: 4
+  data: 
+    "1": [ 0.958375 ,0.284869, -0.0191516 ,   4.56317, 
+          0.284891,  -0.949713 ,   0.12993 ,  -19.3704,
+          0.0188246 , -0.129978,  -0.991338 ,  -12.3121]
+
+
+

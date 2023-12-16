@@ -1,0 +1,5 @@
+{DeviceID: 1794, LidarDataSave: false, LidarNetBuad: 9600, LidarNetIp: 192.168.203.12,
+  LidarNetPort: 5000, MyselfNetGoal: 192.168.8.1, MyselfNetIp: 192.168.8.90, PlatIp: 192.168.203.44,
+  PlatPort: 4890, PlatState: 1, PlatType: 1, TranfficIp: 192.168.203.55, TranfficMode: false,
+  TranfficPort: 4396, TranfficState: 1, TranfficType: 1, UpperCamNetPort: 6060, UpperLongNetPort: 4040,
+  UpperNetBuad: 9600, UpperNetIp: 192.168.203.55, UpperShortNetPort: 5050}

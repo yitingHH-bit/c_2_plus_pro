@@ -1,0 +1,121 @@
+LanCount: 4
+LanParam:
+  '0':
+    attribute: 0
+    coordinate: [-7.5, 40.0]
+    long: 30.0
+    maxspeed: 80.0
+    type: 2
+    width: 3.6500000953674316
+  '1':
+    attribute: 0
+    coordinate: [-15.300000190734863, 318.941162109375]
+    long: 100.0
+    maxspeed: 80.0
+    type: 2
+    width: 3.6500000953674316
+  '10':
+    attribute: 1
+    coordinate: [-1.9214284420013428, 767.2857055664062]
+    long: 60.0
+    maxspeed: 80.0
+    type: 1
+    width: 3.6500000953674316
+  '11':
+    attribute: 3
+    coordinate: [4.871428966522217, 767.2857055664062]
+    long: 60.0
+    maxspeed: 80.0
+    type: 5
+    width: 3.507143259048462
+  '12':
+    attribute: 3
+    coordinate: [8.378572463989258, 767.2857055664062]
+    long: 60.0
+    maxspeed: 80.0
+    type: 1
+    width: 3.6500000953674316
+  '13':
+    attribute: 3
+    coordinate: [10.742857933044434, 767.2857055664062]
+    long: 60.0
+    maxspeed: 80.0
+    type: 1
+    width: 3.6500000953674316
+  '14':
+    attribute: 1
+    coordinate: [9.949999809265137, 20.0]
+    long: 200.0
+    maxspeed: 120.0
+    type: 0
+    width: 3.5
+  '15':
+    attribute: 1
+    coordinate: [9.949999809265137, 20.0]
+    long: 200.0
+    maxspeed: 120.0
+    type: 0
+    width: 3.5
+  '16':
+    attribute: 1
+    coordinate: [9.949999809265137, 20.0]
+    long: 200.0
+    maxspeed: 120.0
+    type: 0
+    width: 3.5
+  '2':
+    attribute: 0
+    coordinate: [-11.649999618530273, 318.941162109375]
+    long: 100.0
+    maxspeed: 80.0
+    type: 2
+    width: 3.6500000953674316
+  '3':
+    attribute: 2
+    coordinate: [-6.908652305603027, 318.941162109375]
+    long: 100.0
+    maxspeed: 80.0
+    type: 0
+    width: 3.494736433029175
+  '4':
+    attribute: 2
+    coordinate: [-3.4139158725738525, 318.941162109375]
+    long: 100.0
+    maxspeed: 80.0
+    type: 0
+    width: 3.7466816902160645
+  '5':
+    attribute: 2
+    coordinate: [0.33276575803756714, 318.941162109375]
+    long: 100.0
+    maxspeed: 80.0
+    type: 0
+    width: 3.7466812133789062
+  '6':
+    attribute: 2
+    coordinate: [4.079446792602539, 318.941162109375]
+    long: 100.0
+    maxspeed: 80.0
+    type: 0
+    width: 3.7466812133789062
+  '7':
+    attribute: 2
+    coordinate: [-16.175676345825195, 284.15386962890625]
+    long: 200.0
+    maxspeed: 80.0
+    type: 0
+    width: 3.692135810852051
+  '8':
+    attribute: 2
+    coordinate: [-12.483540534973145, 284.15386962890625]
+    long: 200.0
+    maxspeed: 80.0
+    type: 0
+    width: 3.6375904083251953
+  '9':
+    attribute: 1
+    coordinate: [-7.935714244842529, 767.2857055664062]
+    long: 60.0
+    maxspeed: 80.0
+    type: 1
+    width: 6.014286041259766

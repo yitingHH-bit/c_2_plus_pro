@@ -1,0 +1,582 @@
+data:  (1.0, 1.0, 192.0, 168.0, 203.0, 88.0, 192.0, 168.0, 203.0, 1.0)
+data:(1.0, 2.0, 129.0, 96.0, 1.0, 2.0, 192.0, 168.0, 203.0, 88.0, 192.0, 168.0, 203.0, 1.0)
+
+data:(2.0, 2.0, 129.0, 96.0, 2.0, 2.0, 192.0, 168.0, 203.0, 88.0, 192.0, 168.0, 203.0, 1.0)
+
+i:1->3
+----
+i:2->1
+----
+i:3->129
+----
+i:4->96
+----
+i:5->3
+----
+i:6->1
+----
+i:7->192
+----
+i:8->168
+----
+i:9->203
+----
+i:10->88
+----
+i:11->192
+----
+i:12->168
+----
+i:13->203
+
+i:14->1
+cross through crc!
+lianluID.word_s.byte0_divice_de: 1
+lianluID.word_s.byte1_divice_id: 1
+----------------------_________________------------------____________
+oper_type: 129
+obj_tag: 96
+OperType::OPER_TYPE_SETTING_INFO: 129
+OperType::OPER_TYPE_INFO_REQUEST: 128
+OperType::OPER_TYPE_ONLINE_REQUEST: 133
+----------------------_________________------------------____________
+
+
+
+data:(3.0, 1.0, 129.0, 96.0, 3.0, 1.0, 192.0, 168.0, 203.0, 88.0, 192.0, 168.0, 203.0, 1.0)
+
+
+
+**************************************************************************************************************************************************************************************
+one short client conn!
+recv one short data!
+a message from short net in ros2up_node!
+----
+i:1->1
+----
+i:2->1
+----
+i:3->129
+----
+i:4->96
+----
+i:5->1
+----
+i:6->1
+----
+i:7->192
+----
+i:8->168
+----
+i:9->203
+----
+i:10->90
+----
+i:11->192
+----
+i:12->168
+----
+i:13->203
+----
+i:14->1
+cross through crc!
+lianluID.word_s.byte0_divice_de: 1
+lianluID.word_s.byte1_divice_id: 1
+----------------------_________________------------------____________
+oper_type: 129
+obj_tag: 96
+OperType::OPER_TYPE_SETTING_INFO: 129
+OperType::OPER_TYPE_INFO_REQUEST: 128
+OperType::OPER_TYPE_ONLINE_REQUEST: 133
+----------------------_________________------------------____________
+this is a setting message!
+this is network setting msgs!
+server short sended len:7
+短链接 服务器断开!
+setting message return successful in ros2up_node
+short client listen start!
+[00:02:03]  [ros2up_node][INFO   ]:Network info responed successful!
+[00:02:03]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[00:02:03]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 129.0, 96.0, 1.0, 1.0, 192.0, 168.0, 203.0, 90.0, 192.0, 168.0, 203.0, 1.0)
+[00:02:03]  [ros2up_node][INFO   ]:This is a setting message!
+[00:02:03]  [ros2up_node][INFO   ]:This is network setting msgs!
+[00:02:03]  [ros2up_node][INFO   ]:Send setting msgs to setting_node
+[00:02:03]  [ros2up_node][INFO   ]:Enter setting responed!
+[00:02:03]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			Setting responed successful !
+[00:02:03]  [ros2up_node][INFO   ]:responed successfully
+ enter setting
+set network info in setting_node
+ [00:02:03]  [setting_node][INFO   ]:Enter setting
+[00:02:03]  [setting_node][INFO   ]:Set network info to savefile
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+data:  (1.0, 1.0, 192.0, 168.0, 203.0, 90.0, 192.0, 168.0, 203.0, 1.0)
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+***********************8888888888888******************88888======================
+direc['DeviceID']:  257
+***********************8888888888888******************88888=======================
+
+**************************************************************************************************************************************************************************************
+
+one short client conn!
+recv one short data!
+a message from short net in ros2up_node!
+----
+i:1->1
+----
+i:2->3
+----
+i:3->129
+----
+i:4->96
+----
+i:5->1
+----
+i:6->3
+----
+i:7->192
+----
+i:8->168
+----
+i:9->203
+----
+i:10->90
+----
+i:11->192
+----
+i:12->168
+----
+i:13->203
+----
+i:14->1
+cross through crc!
+lianluID.word_s.byte0_divice_de: 3
+lianluID.word_s.byte1_divice_id: 1
+----------------------_________________------------------____________
+oper_type: 129
+obj_tag: 96
+OperType::OPER_TYPE_SETTING_INFO: 129
+OperType::OPER_TYPE_INFO_REQUEST: 128
+OperType::OPER_TYPE_ONLINE_REQUEST: 133
+----------------------_________________------------------____________
+this is a setting message!
+this is network setting msgs!
+[00:03:43]  [ros2up_node][INFO   ]:Network info responed successful!
+[00:03:43]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[00:03:43]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 3.0, 129.0, 96.0, 1.0, 3.0, 192.0, 168.0, 203.0, 90.0, 192.0, 168.0, 203.0, 1.0)
+[00:03:43]  [ros2up_node][INFO   ]:This is a setting message!
+server short sended len:7
+短链接 服务器断开!
+setting message return successful in ros2up_node
+short client listen start!
+[00:03:43]  [ros2up_node][INFO   ]:This is network setting msgs!
+[00:03:43]  [ros2up_node][INFO   ]:Send setting msgs to setting_node
+[00:03:43]  [ros2up_node][INFO   ]:Enter setting responed!
+[00:03:43]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			Setting responed successful !
+[00:03:43]  [ros2up_node][INFO   ]:responed successfully
+one short client conn!
+recv one short data!
+a message from short net in ros2up_node!
+----
+i:1->1
+----
+i:2->1
+----
+i:3->133
+----
+i:4->135
+cross through crc!
+lianluID.word_s.byte0_divice_de: 1
+lianluID.word_s.byte1_divice_id: 1
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+msg.frame_id:  258
+self.deviceId:  257
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+one short client conn!
+recv one short data!
+a message from short net in ros2up_node!
+----
+i:1->1
+----
+i:2->2
+----
+i:3->129
+----
+i:4->96
+----
+i:5->1
+----
+i:6->2
+----
+i:7->192
+----
+[00:14:38]  [ros2up_node][INFO   ]:Network info responed successful!
+i:8->168
+----
+i:9->203
+----
+i:10->90
+----
+i:11->192
+----
+i:12->168
+----
+i:13->203
+[00:14:38]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+----
+i:14->1
+cross through crc!
+lianluID.word_s.byte0_divice_de: 2
+lianluID.word_s.byte1_divice_id: 1
+----------------------_________________------------------____________
+oper_type: 129
+obj_tag: 96
+OperType::OPER_TYPE_SETTING_INFO: 129
+OperType::OPER_TYPE_INFO_REQUEST: 128
+OperType::OPER_TYPE_ONLINE_REQUEST: 133
+----------------------_________________------------------____________
+this is a setting message!
+this is network setting msgs!
+server short sended len:7
+短链接 服务器断开!
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+msg.frame_id:  258
+self.deviceId:  257
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+setting message return successful in ros2up_node
+[00:14:38]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 2.0, 129.0, 96.0, 1.0, 2.0, 192.0, 168.0, 203.0, 90.0, 192.0, 168.0, 203.0, 1.0)
+short client listen start!
+[00:14:38]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(25.25, 46.20000076293945, 90.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[00:14:38]  [ros2up_node][INFO   ]:This is a setting message!
+[00:14:38]  [ros2up_node][INFO   ]:This is network setting msgs!
+[00:14:38]  [ros2up_node][INFO   ]:Send setting msgs to setting_node
+[00:14:38]  [ros2up_node][INFO   ]:Enter setting responed!
+[00:14:38]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			Setting responed successful !
+[00:14:38]  [ros2up_node][INFO   ]:responed successfully
+[00:14:45]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(25.0, 46.20000076293945, 90.4000015258789, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+one short client conn!
+
+
+道路配置信息 數據如下：
+one short client conn!
+recv one short data!
+a message from short net in ros2up_node!
+----
+i:1->1
+----
+i:2->1
+----
+i:3->129
+----
+i:4->86
+----
+i:5->6
+----
+i:6->6
+----
+i:7->1
+----
+i:8->154
+----
+i:9->153
+----
+i:10->105
+----
+i:11->64
+----
+i:12->0
+----
+i:13->0
+----
+i:14->200
+----
+i:15->66
+----
+i:16->0
+----
+i:17->2
+----
+i:18->0
+----
+i:19->0
+----
+i:20->240
+----
+i:21->192
+----
+i:22->120
+----
+i:23->120
+----
+i:24->166
+----
+i:25->67
+----
+i:26->0
+----
+i:27->0
+----
+i:28->160
+----
+i:29->66
+----
+i:30->2
+----
+i:31->154
+----
+i:32->153
+----
+i:33->105
+----
+i:34->64
+----
+i:35->0
+----
+i:36->0
+----
+i:37->200
+----
+i:38->66
+----
+i:39->0
+----
+i:40->2
+----
+i:41->102
+----
+i:42->102
+----
+i:43->118
+----
+i:44->192
+----
+i:45->120
+----
+i:46->120
+----
+i:47->166
+----
+i:48->67
+----
+i:49->0
+----
+i:50->0
+----
+i:51->160
+----
+i:52->66
+----
+i:53->3
+----
+i:54->195
+----
+i:55->169
+----
+i:56->95
+----
+i:57->64
+----
+i:58->0
+----
+i:59->0
+----
+i:60->200
+----
+i:61->66
+----
+i:62->2
+----
+i:63->0
+----
+i:64->95
+----
+i:65->47
+----
+i:66->100
+----
+i:67->63
+----
+i:68->120
+----
+i:69->120
+----
+i:70->166
+----
+i:71->67
+----
+i:72->0
+----
+i:73->0
+----
+i:74->160
+----
+i:75->66
+----
+i:76->4
+----
+i:77->162
+----
+i:78->201
+----
+i:79->111
+----
+i:80->64
+----
+i:81->0
+----
+i:82->0
+----
+i:83->200
+----
+i:84->66
+----
+i:85->2
+----
+i:86->0
+----
+i:87->205
+----
+i:88->90
+----
+i:89->140
+----
+i:90->64
+----
+i:91->120
+----
+i:92->120
+----
+i:93->166
+----
+i:94->67
+----
+i:95->0
+----
+i:96->0
+----
+i:97->160
+----
+i:98->66
+----
+i:99->5
+----
+i:100->160
+----
+i:101->201
+----
+i:102->111
+----
+i:103->64
+----
+i:104->0
+----
+i:105->0
+----
+i:106->200
+----
+i:107->66
+----
+i:108->2
+----
+i:109->0
+----
+i:110->207
+----
+i:111->31
+----
+i:112->2
+----
+i:113->65
+----
+i:114->120
+----
+i:115->120
+----
+i:116->166
+----
+i:117->67
+----
+i:118->0
+----
+i:119->0
+----
+i:120->160
+----
+i:121->66
+----
+i:122->6
+----
+i:123->160
+----
+i:124->201
+----
+i:125->111
+----
+i:126->64
+----
+i:127->0
+----
+i:128->0
+----
+i:129->200
+----
+i:130->66
+----
+i:131->2
+----
+i:132->0
+----
+i:133->55
+----
+i:134->18
+----
+i:135->62
+----
+i:136->65
+----
+i:137->120
+----
+i:138->120
+----
+i:139->166
+----
+i:140->67
+----
+i:141->0
+----
+i:142->0
+----
+i:143->160
+----
+i:144->66
+cross through crc!
+

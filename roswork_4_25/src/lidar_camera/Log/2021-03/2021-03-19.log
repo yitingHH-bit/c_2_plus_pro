@@ -1,0 +1,683 @@
+[12:08:35]  [timemanager_node][INFO   ]:Connecte with BDTimer failed!
+[12:10:02]  [ros2up_node][WARRING]:Short client listen create start!
+			Short client listen start!
+			
+			send device state data failed!
+
+[12:10:36]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:10:36]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:10:36]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:10:36]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:10:36]  [ros2up_node][INFO   ]:One log client add successful
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:11:17]  [ros2up_node][WARRING]:Short client listen start!
+			Long send failed! in vehs times=3
+			Close one long client
+			
+vehs sended failed!
+
+[12:11:29]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:11:58]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:12:27]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:12:56]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:13:25]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:13:54]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:14:23]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:14:52]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:15:22]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:15:51]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:16:20]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:16:49]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:17:18]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:17:58]  [ros2up_node][WARRING]:One log client add successful
+			Long send failed! in vehs times=3
+			Close one long client
+			
+vehs sended failed!
+
+[12:18:37]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 45.400001525878906, 91.19999694824219, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:18:38]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 45.5, 93.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:18:39]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 45.599998474121094, 92.5, 5.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:18:50]  [ros2up_node][WARRING]:One log client add successful
+			Long send failed! in vehs times=3
+			Close one long client
+			
+vehs sended failed!
+
+[12:19:09]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:19:38]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:20:07]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:20:36]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:21:05]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:21:34]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:22:03]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:23:14]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:23:14]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:23:14]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:23:14]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:23:14]  [ros2up_node][INFO   ]:One log client add successful
+			One log client add successful
+			One log client add successful
+			One log client add successful
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:23:29]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:23:29]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:23:29]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:23:29]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:23:29]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:25:41]  [ros2up_node][WARRING]:Short client listen start!
+			Long send failed! in vehs times=3
+			Close one long client
+			One log client add successful
+			One log client add successful
+			One log client add successful
+			One log client add successful
+			One log client add successful
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Close one long client
+			Close one long client
+			Close one long client
+			Close one long client
+			Close one long client
+			Close one long client
+			Close one long client
+			Close one long client
+			
+vehs sended failed!
+
+[12:25:55]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:26:15]  [ros2up_node][WARRING]:One log client add successful
+			Long send failed! in vehs times=3
+			Close one long client
+			
+vehs sended failed!
+
+[12:26:40]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:26:40]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:26:40]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:26:40]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:26:40]  [ros2up_node][INFO   ]:One log client add successful
+			One log client add successful
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:26:55]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:26:55]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:26:55]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:26:55]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:26:55]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:27:10]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:27:10]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:27:10]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:27:10]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:27:10]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:27:25]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:27:25]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:27:25]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:27:25]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:27:25]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:27:40]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:27:40]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:27:40]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:27:40]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:27:40]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:27:55]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:27:55]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:27:55]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:27:55]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:27:55]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:28:10]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:28:10]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:28:10]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:28:10]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:28:10]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:28:25]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:28:25]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:28:25]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:28:25]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:28:25]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:28:40]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:28:40]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:28:40]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:28:40]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:28:40]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:28:55]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:28:55]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:28:55]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:28:55]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:28:55]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:29:10]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:29:10]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:29:10]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:29:10]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:29:10]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:29:25]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:29:25]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:29:25]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:29:25]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:29:25]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:29:40]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:29:40]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:29:40]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:29:40]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:29:40]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:29:55]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:29:55]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:29:55]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:29:55]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:29:55]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:30:10]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:30:10]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:30:10]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:30:10]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:30:10]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:30:25]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:30:25]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:30:25]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:30:25]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:30:25]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:30:40]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:30:40]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:30:40]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:30:40]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:30:40]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:30:55]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:30:55]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:30:55]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:30:55]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:30:55]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:31:10]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:31:10]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:31:10]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:31:10]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:31:10]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:31:25]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:31:25]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:31:25]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:31:25]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:31:25]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:31:40]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:31:40]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:31:40]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:31:40]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:31:40]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:31:55]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:31:55]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:31:55]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:31:55]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:31:55]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:32:10]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:32:10]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:32:10]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:32:10]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:32:10]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:32:25]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:32:25]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:32:25]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:32:25]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:32:25]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:32:40]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:32:40]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:32:40]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:32:40]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:32:40]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:32:55]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:32:55]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:32:55]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:32:55]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:32:55]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:33:10]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:33:10]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:33:10]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:33:10]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:33:10]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:36:29]  [ros2up_node][WARRING]:Short client listen start!
+			One log client add successful
+			One log client add successful
+			One log client add successful
+			One log client add successful
+			One log client add successful
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Close one long client
+			Close one long client
+			Close one long client
+			Close one long client
+			Close one long client
+			Close one long client
+			Close one long client
+			
+vehs sended failed!
+
+[12:36:34]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[12:38:40]  [ros2up_node][INFO   ]:Network info responed successful!
+[12:38:40]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[12:38:40]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 133.0, 135.0)
+[12:38:40]  [ros2up_node][INFO   ]:Enter online Q responed!
+[12:38:40]  [ros2up_node][INFO   ]:One log client add successful
+			One log client add successful
+			One log client add successful
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:7
+			短链接 服务器断开!
+			online responed successful !
+[12:39:53]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(20.75, 48.0, 100.0, 5.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:39:54]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(20.75, 48.0, 93.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:39:55]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 48.20000076293945, 95.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:39:56]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 48.20000076293945, 95.5, 5.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:39:57]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(20.75, 47.70000076293945, 95.19999694824219, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:39:58]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 48.29999923706055, 95.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:39:59]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 48.20000076293945, 96.69999694824219, 5.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:00]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 47.900001525878906, 94.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:01]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 48.400001525878906, 96.80000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:02]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 48.29999923706055, 96.0, 62.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:03]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 48.099998474121094, 94.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:04]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 48.400001525878906, 96.80000305175781, 5.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:06]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 47.20000076293945, 90.69999694824219, 23.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:07]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 98.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:08]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 48.099998474121094, 95.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:09]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 48.400001525878906, 95.0, 72.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:10]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 48.29999923706055, 96.19999694824219, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:11]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 48.099998474121094, 93.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:12]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 48.29999923706055, 93.80000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:13]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.0, 48.29999923706055, 96.80000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:14]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 48.099998474121094, 95.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:15]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 48.400001525878906, 94.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:16]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 48.400001525878906, 99.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:17]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 48.099998474121094, 95.80000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:18]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 48.400001525878906, 95.80000305175781, 24.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:19]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 48.29999923706055, 96.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:20]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.099998474121094, 93.80000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:21]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.400001525878906, 96.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:22]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.400001525878906, 96.80000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:23]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.20000076293945, 95.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:24]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 47.20000076293945, 94.30000305175781, 50.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:25]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 48.29999923706055, 98.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:26]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 48.20000076293945, 95.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:27]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 47.29999923706055, 94.19999694824219, 52.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:28]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.599998474121094, 97.30000305175781, 112.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:29]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 96.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:30]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 90.5999984741211, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:31]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 96.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:32]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 48.20000076293945, 96.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:33]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 47.20000076293945, 92.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:34]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 97.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:35]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.20000076293945, 95.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:36]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.099998474121094, 94.80000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:37]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.25, 48.29999923706055, 96.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:38]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 95.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:39]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 47.29999923706055, 94.30000305175781, 87.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:40]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 95.80000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:41]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 97.80000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:42]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 47.29999923706055, 95.5, 105.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:43]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 48.29999923706055, 97.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:44]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 96.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:45]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 48.099998474121094, 94.69999694824219, 5.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:46]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 97.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:48]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.0, 48.400001525878906, 96.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:49]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.0, 48.29999923706055, 95.19999694824219, 5.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:50]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.0, 48.400001525878906, 90.19999694824219, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:51]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 95.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:52]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 47.900001525878906, 91.9000015258789, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:53]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 48.400001525878906, 98.19999694824219, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:55]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.400001525878906, 97.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:57]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 48.400001525878906, 94.5, 56.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:58]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 95.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:40:59]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.25, 48.099998474121094, 95.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:41:00]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.25, 48.5, 95.69999694824219, 80.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:41:01]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.29999923706055, 94.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:41:09]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 48.20000076293945, 91.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:41:10]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 48.099998474121094, 91.5, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:41:11]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.20000076293945, 90.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:41:25]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 47.099998474121094, 90.5, 23.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:41:32]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.75, 48.20000076293945, 91.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[12:41:39]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(21.5, 48.20000076293945, 93.0, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[15:33:27]  [ros2up_node][WARRING]:Short client listen create start!
+			Short client listen start!
+			
+			send device state data failed!
+
+[15:33:56]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[15:34:25]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[15:34:54]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[15:35:23]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[15:35:52]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[15:36:21]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[15:36:50]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[15:48:04]  [ros2up_node][WARRING]:Short client listen create start!
+			Short client listen start!
+			
+			send device state data failed!
+
+[15:48:21]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(19.0, 42.79999923706055, 90.30000305175781, 47.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[15:48:22]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[15:48:35]  [udp_node][INFO   ]:timed out
+[15:51:10]  [ros2up_node][WARRING]:Short client listen create start!
+			Short client listen start!
+			
+			send device state data failed!
+

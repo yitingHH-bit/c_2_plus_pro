@@ -1,0 +1,982 @@
+[09:29:19]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.0, 40.099998474121094, 90.9000015258789, 68.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[09:29:20]  [ros2up_node][WARRING]:Short client listen create start!
+			Short client listen start!
+			
+			send device state data failed!
+
+[09:29:20]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.5, 40.099998474121094, 90.30000305175781, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[09:29:21]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:29:21]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.5, 40.099998474121094, 90.19999694824219, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[09:29:22]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:29:22]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.0, 40.099998474121094, 90.5999984741211, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[09:29:23]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:29:23]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.75, 40.099998474121094, 91.4000015258789, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[09:29:24]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:29:24]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.75, 40.099998474121094, 90.30000305175781, 5.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[09:29:25]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:29:25]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.25, 40.099998474121094, 91.0999984741211, 5.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[09:29:26]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:29:26]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.25, 40.099998474121094, 91.30000305175781, 102.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[09:29:27]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:29:30]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(22.5, 40.099998474121094, 91.9000015258789, 60.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[09:34:07]  [ros2up_node][WARRING]:Short client listen create start!
+			Short client listen start!
+			
+			send device state data failed!
+
+[09:34:36]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:37:27]  [ros2up_node][INFO   ]:Network info responed successful!
+[09:37:27]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[09:37:27]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 128.0, 86.0)
+[09:37:27]  [ros2up_node][INFO   ]:This a required msg!
+[09:37:27]  [ros2up_node][INFO   ]:This require lan msg!
+[09:37:27]  [setting_node][INFO   ]:Read lan info from savefile
+[09:37:27]  [ros2up_node][INFO   ]:Call srv successful in ros2up_node
+[09:37:27]  [setting_node][INFO   ]:Required data
+			data:(6.0, 1.0, 3.6833343505859375, 200.0, 0.0, 4.0, 14.70677661895752, 0.9047008752822876, 80.0, 2.0, 4.326200485229492, 200.0, 0.0, 0.0, 18.390111923217773, 0.9047008752822876, 80.0, 3.0, 4.704111576080322, 200.0, 0.0, 0.0, 12.124534606933594, 240.90469360351562, 80.0, 4.0, 8.602926254272461, 100.0, 0.0, 0.0, 25.953758239746094, -253.09530639648438, 80.0, 5.0, 3.9499969482421875, 60.0, 1.0, 0.0, 82.53546142578125, 1108.45654296875, 80.0, 6.0, -82.45515441894531, 60.0, 1.0, 1.0, 86.48545837402344, 1108.45654296875, 80.0)
+[09:37:27]  [ros2up_node][INFO   ]:Enter info inquired!
+			data:(6.0, 1.0, 3.6833343505859375, 200.0, 0.0, 4.0, 14.70677661895752, 0.9047008752822876, 80.0, 2.0, 4.326200485229492, 200.0, 0.0, 0.0, 18.390111923217773, 0.9047008752822876, 80.0, 3.0, 4.704111576080322, 200.0, 0.0, 0.0, 12.124534606933594, 240.90469360351562, 80.0, 4.0, 8.602926254272461, 100.0, 0.0, 0.0, 25.953758239746094, -253.09530639648438, 80.0, 5.0, 3.9499969482421875, 60.0, 1.0, 0.0, 82.53546142578125, 1108.45654296875, 80.0, 6.0, -82.45515441894531, 60.0, 1.0, 1.0, 86.48545837402344, 1108.45654296875, 80.0)
+[09:37:27]  [ros2up_node][INFO   ]:One log client add successful
+			One log client add successful
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:146
+			短链接 服务器断开!
+			Lan info responed successful!
+[09:48:43]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(24.25, 42.400001525878906, 92.4000015258789, 204.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[09:48:45]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(24.0, 42.400001525878906, 91.69999694824219, 164.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[09:48:47]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(24.0, 42.5, 90.5, 136.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[09:49:19]  [ros2up_node][WARRING]:Short client listen start!
+			One log client add successful
+			One log client add successful
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Long send failed! in vehs times=3
+			Close one long client
+			Close one long client
+			Close one long client
+			One log client add successful
+			Long send failed! in vehs times=3
+			Close one long client
+			Long send failed! in vehs times=3
+			Close one long client
+			
+vehs sended failed!
+
+[09:49:46]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:50:18]  [ros2up_node][WARRING]:One log client add successful
+			Long send failed! in vehs times=3
+			Close one long client
+			
+vehs sended failed!
+
+[09:50:44]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:51:13]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:51:42]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:52:11]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:52:40]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:53:09]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:53:26]  [ros2up_node][INFO   ]:Network info responed successful!
+[09:53:26]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[09:53:26]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 128.0, 96.0)
+[09:53:26]  [ros2up_node][INFO   ]:This a required msg!
+[09:53:26]  [ros2up_node][INFO   ]:This require network msg!
+[09:53:26]  [setting_node][INFO   ]:Read network info from savefile
+[09:53:26]  [setting_node][INFO   ]:Required data
+			data:(257.0, 192.0, 168.0, 203.0, 24.0, 192.0, 168.0, 203.0, 1.0)
+[09:53:26]  [ros2up_node][INFO   ]:Call srv successful in ros2up_node
+[09:53:26]  [ros2up_node][INFO   ]:Enter info inquired!
+			data:(257.0, 192.0, 168.0, 203.0, 24.0, 192.0, 168.0, 203.0, 1.0)
+[09:53:26]  [ros2up_node][INFO   ]:One log client add successful
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:17
+			短链接 服务器断开!
+			Network info responed successful!
+[09:54:42]  [ros2up_node][INFO   ]:Network info responed successful!
+[09:54:42]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[09:54:42]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 128.0, 89.0)
+[09:54:42]  [ros2up_node][INFO   ]:This a required msg!
+[09:54:42]  [ros2up_node][INFO   ]:This require install msg!
+[09:54:42]  [setting_node][INFO   ]:Read install info from savefile
+[09:54:42]  [ros2up_node][INFO   ]:Call srv successful in ros2up_node
+[09:54:42]  [setting_node][INFO   ]:Required data
+			data:(9.0, 0.0, 0.0, 20.0, 6.0, 22.0, 0.0, 3.0, 1.0, -1.5499999523162842, 0.0, 0.5, -6.0, 2.0, 2.0, 2.0, -3.0, 0.0, 0.0, -3.5, -2.0, 4.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 4.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 5.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 6.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 7.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 8.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0499999523162842)
+[09:54:42]  [ros2up_node][INFO   ]:Enter info inquired!
+			data:(9.0, 0.0, 0.0, 20.0, 6.0, 22.0, 0.0, 3.0, 1.0, -1.5499999523162842, 0.0, 0.5, -6.0, 2.0, 2.0, 2.0, -3.0, 0.0, 0.0, -3.5, -2.0, 4.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 4.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 5.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 6.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 7.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 8.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0499999523162842)
+[09:54:42]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:233
+			短链接 服务器断开!
+			Install info responed successful!
+[09:56:23]  [ros2up_node][INFO   ]:Network info responed successful!
+[09:56:23]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[09:56:23]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 128.0, 87.0)
+[09:56:23]  [setting_node][INFO   ]:Read statis info from savefile
+[09:56:23]  [ros2up_node][INFO   ]:This a required msg!
+[09:56:23]  [ros2up_node][INFO   ]:This require statis msg!
+[09:56:23]  [setting_node][INFO   ]:Required data
+			data:(15.0, 10.0, 5.0, 4.0, 1.0, 2.0, 1.0, 2.5, 100.0, 2.0, 2.5, 85.0, 2.0, 2.0, 1.0, 2.5, 90.0, 2.0, 2.5, 80.0, 3.0, 1.0, 1.0, 2.5, 150.0, 4.0, 2.0, 1.0, 2.5, 130.0, 2.0, 2.5, 150.0)
+[09:56:23]  [ros2up_node][INFO   ]:Call srv successful in ros2up_node
+[09:56:23]  [ros2up_node][INFO   ]:Enter info inquired!
+			data:(15.0, 10.0, 5.0, 4.0, 1.0, 2.0, 1.0, 2.5, 100.0, 2.0, 2.5, 85.0, 2.0, 2.0, 1.0, 2.5, 90.0, 2.0, 2.5, 80.0, 3.0, 1.0, 1.0, 2.5, 150.0, 4.0, 2.0, 1.0, 2.5, 130.0, 2.0, 2.5, 150.0)
+[09:56:23]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:40
+			短链接 服务器断开!
+			Statis info responed successful!
+[09:57:15]  [ros2up_node][INFO   ]:Network info responed successful!
+[09:57:15]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[09:57:15]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 128.0, 87.0)
+[09:57:15]  [ros2up_node][INFO   ]:This a required msg!
+[09:57:15]  [ros2up_node][INFO   ]:This require statis msg!
+[09:57:15]  [setting_node][INFO   ]:Read statis info from savefile
+[09:57:15]  [setting_node][INFO   ]:Required data
+			data:(15.0, 10.0, 5.0, 4.0, 1.0, 2.0, 1.0, 2.5, 100.0, 2.0, 2.5, 85.0, 2.0, 2.0, 1.0, 2.5, 90.0, 2.0, 2.5, 80.0, 3.0, 1.0, 1.0, 2.5, 150.0, 4.0, 2.0, 1.0, 2.5, 130.0, 2.0, 2.5, 150.0)
+[09:57:15]  [ros2up_node][INFO   ]:Call srv successful in ros2up_node
+[09:57:15]  [ros2up_node][INFO   ]:Enter info inquired!
+			data:(15.0, 10.0, 5.0, 4.0, 1.0, 2.0, 1.0, 2.5, 100.0, 2.0, 2.5, 85.0, 2.0, 2.0, 1.0, 2.5, 90.0, 2.0, 2.5, 80.0, 3.0, 1.0, 1.0, 2.5, 150.0, 4.0, 2.0, 1.0, 2.5, 130.0, 2.0, 2.5, 150.0)
+[09:57:15]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:40
+			短链接 服务器断开!
+			Statis info responed successful!
+[09:57:42]  [ros2up_node][WARRING]:Short client listen start!
+			Long send failed! in vehs times=3
+			Close one long client
+			
+vehs sended failed!
+
+[09:57:59]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:58:28]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:58:31]  [ros2up_node][INFO   ]:Network info responed successful!
+[09:58:31]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[09:58:31]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 128.0, 87.0)
+[09:58:31]  [ros2up_node][INFO   ]:This a required msg!
+[09:58:31]  [ros2up_node][INFO   ]:This require statis msg!
+[09:58:31]  [setting_node][INFO   ]:Read statis info from savefile
+[09:58:31]  [ros2up_node][INFO   ]:Call srv successful in ros2up_node
+[09:58:31]  [ros2up_node][INFO   ]:Enter info inquired!
+			data:(15.0, 10.0, 5.0, 4.0, 1.0, 2.0, 1.0, 2.5, 100.0, 2.0, 2.5, 85.0, 2.0, 2.0, 1.0, 2.5, 90.0, 2.0, 2.5, 80.0, 3.0, 1.0, 1.0, 2.5, 150.0, 4.0, 2.0, 1.0, 2.5, 130.0, 2.0, 2.5, 150.0)
+[09:58:31]  [ros2up_node][INFO   ]:One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:40
+			短链接 服务器断开!
+			Statis info responed successful!
+[09:58:31]  [setting_node][INFO   ]:Required data
+			data:(15.0, 10.0, 5.0, 4.0, 1.0, 2.0, 1.0, 2.5, 100.0, 2.0, 2.5, 85.0, 2.0, 2.0, 1.0, 2.5, 90.0, 2.0, 2.5, 80.0, 3.0, 1.0, 1.0, 2.5, 150.0, 4.0, 2.0, 1.0, 2.5, 130.0, 2.0, 2.5, 150.0)
+[09:58:40]  [ros2up_node][INFO   ]:Network info responed successful!
+[09:58:40]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[09:58:40]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 128.0, 87.0)
+[09:58:40]  [ros2up_node][INFO   ]:This a required msg!
+[09:58:40]  [ros2up_node][INFO   ]:This require statis msg!
+[09:58:40]  [setting_node][INFO   ]:Read statis info from savefile
+[09:58:41]  [setting_node][INFO   ]:Required data
+			data:(15.0, 10.0, 5.0, 4.0, 1.0, 2.0, 1.0, 2.5, 100.0, 2.0, 2.5, 85.0, 2.0, 2.0, 1.0, 2.5, 90.0, 2.0, 2.5, 80.0, 3.0, 1.0, 1.0, 2.5, 150.0, 4.0, 2.0, 1.0, 2.5, 130.0, 2.0, 2.5, 150.0)
+[09:58:41]  [ros2up_node][INFO   ]:Call srv successful in ros2up_node
+[09:58:41]  [ros2up_node][INFO   ]:Enter info inquired!
+			data:(15.0, 10.0, 5.0, 4.0, 1.0, 2.0, 1.0, 2.5, 100.0, 2.0, 2.5, 85.0, 2.0, 2.0, 1.0, 2.5, 90.0, 2.0, 2.5, 80.0, 3.0, 1.0, 1.0, 2.5, 150.0, 4.0, 2.0, 1.0, 2.5, 130.0, 2.0, 2.5, 150.0)
+[09:58:41]  [ros2up_node][INFO   ]:Short client listen start!
+			One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:40
+			短链接 服务器断开!
+			Statis info responed successful!
+[09:58:57]  [ros2up_node][WARRING]:Short client listen start!
+			
+			send device state data failed!
+
+[09:59:26]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[09:59:43]  [ros2up_node][INFO   ]:Network info responed successful!
+[09:59:43]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[09:59:43]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 128.0, 97.0)
+[09:59:43]  [ros2up_node][INFO   ]:This a required msg!
+[09:59:43]  [ros2up_node][INFO   ]:This require out network msg!
+[09:59:43]  [ros2up_node][INFO   ]:Call srv successful in ros2up_node
+[09:59:43]  [ros2up_node][INFO   ]:Enter info inquired!
+			data:(1.0, 1.0, 192.0, 168.0, 8.0, 25.0, 4396.0, 1.0, 1.0, 192.0, 168.0, 203.0, 22.0, 4890.0)
+[09:59:43]  [ros2up_node][INFO   ]:One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:27
+			短链接 服务器断开!
+			Network info responed successful!
+[09:59:43]  [setting_node][INFO   ]:Read out device network info from savefile
+[09:59:43]  [setting_node][INFO   ]:Required data
+			data:(1.0, 1.0, 192.0, 168.0, 8.0, 25.0, 4396.0, 1.0, 1.0, 192.0, 168.0, 203.0, 22.0, 4890.0)
+[09:59:55]  [ros2up_node][WARRING]:Short client listen start!
+			
+			send device state data failed!
+
+[10:00:24]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:00:54]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:01:23]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:01:52]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:02:21]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:02:50]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:03:19]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:03:48]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:04:17]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:04:46]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:05:15]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:05:44]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:06:12]  [ros2up_node][INFO   ]:Network info responed successful!
+[10:06:12]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[10:06:12]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 128.0, 88.0)
+[10:06:12]  [ros2up_node][INFO   ]:This a required msg!
+[10:06:12]  [setting_node][INFO   ]:Read period info from savefile
+[10:06:12]  [ros2up_node][INFO   ]:Call srv successful in ros2up_node
+[10:06:12]  [setting_node][INFO   ]:Required data
+			data:(40.0,)
+[10:06:12]  [ros2up_node][INFO   ]:Enter info inquired!
+			data:(40.0,)
+[10:06:12]  [ros2up_node][INFO   ]:One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:11
+			短链接 服务器断开!
+			Period info responed successful!
+[10:06:13]  [ros2up_node][WARRING]:Short client listen start!
+			
+			send device state data failed!
+
+[10:06:33]  [ros2up_node][INFO   ]:Network info responed successful!
+[10:06:33]  [ros2up_node][INFO   ]:Get a message with 0x02 head from short net!
+[10:06:33]  [ros2up_node][INFO   ]:cross through crc!
+			data:(1.0, 1.0, 128.0, 88.0)
+[10:06:33]  [ros2up_node][INFO   ]:This a required msg!
+[10:06:33]  [setting_node][INFO   ]:Read period info from savefile
+[10:06:33]  [ros2up_node][INFO   ]:Call srv successful in ros2up_node
+[10:06:33]  [setting_node][INFO   ]:Required data
+			data:(40.0,)
+[10:06:33]  [ros2up_node][INFO   ]:Enter info inquired!
+			data:(40.0,)
+[10:06:33]  [ros2up_node][INFO   ]:One short client connecte successful!
+			Recv one short data in TCP
+			server short sended len:11
+			短链接 服务器断开!
+			Period info responed successful!
+[10:06:42]  [ros2up_node][WARRING]:Short client listen start!
+			
+			send device state data failed!
+
+[10:07:11]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:07:40]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:08:09]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:08:38]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:09:07]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:09:36]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:10:05]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:10:34]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:11:03]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:11:32]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:12:01]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:12:30]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:12:59]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:13:28]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:13:57]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:14:27]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:14:56]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:15:25]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:15:54]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:16:23]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:16:52]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:17:21]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:17:50]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:18:19]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:18:48]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:19:17]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:19:46]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:20:15]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:20:44]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:21:13]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:21:42]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:22:11]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:22:40]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:23:09]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:23:38]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:24:07]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:24:36]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:25:05]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:25:34]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:26:03]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:26:32]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:27:01]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:27:30]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:27:59]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:28:28]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:28:58]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:29:27]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:29:56]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:30:25]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:30:54]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:31:23]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:31:52]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:32:21]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:32:50]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:33:19]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:33:48]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:34:17]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:34:46]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:35:15]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:35:44]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:36:13]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:36:42]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:37:11]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:37:40]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:38:09]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:38:38]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:39:07]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:39:36]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:40:05]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:40:34]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:41:03]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:41:32]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:42:01]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:42:30]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:43:00]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:43:29]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:43:58]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:44:27]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:44:56]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:45:25]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:45:54]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:46:23]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:46:52]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:47:21]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:47:50]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:48:19]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:48:48]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:49:17]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:49:46]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:50:15]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:50:44]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:51:13]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:51:42]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:52:11]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:52:40]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:53:09]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:53:38]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:54:07]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:54:36]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:55:05]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:55:34]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:56:03]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:56:32]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:57:01]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:57:31]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:58:00]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:58:29]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:58:58]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:59:27]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[10:59:56]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:00:25]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:00:54]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:01:23]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:01:52]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:02:21]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:02:50]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:03:19]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:03:48]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:04:17]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:04:46]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:05:15]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:05:44]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:06:13]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:06:42]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:07:11]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:07:40]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:08:09]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:08:38]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:09:07]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:09:36]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:10:05]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:10:34]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:11:03]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:11:32]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:12:02]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:12:31]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:13:00]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:13:29]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:13:58]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:14:27]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:14:56]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:15:25]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:15:54]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:16:23]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:16:52]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:17:21]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:17:50]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:18:19]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:18:48]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:19:17]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:19:46]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:20:15]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:20:44]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:21:13]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:21:42]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:22:11]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:22:40]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:23:09]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:23:38]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:24:07]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:24:36]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:24:50]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(24.0, 41.900001525878906, 92.4000015258789, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[11:24:50]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:25:19]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:25:49]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:26:18]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:26:47]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:27:16]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:27:45]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:28:14]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:28:43]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:29:12]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:29:18]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(24.0, 42.099998474121094, 93.0, 29.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[11:29:19]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:29:48]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:30:17]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:30:46]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:31:15]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:31:44]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:32:13]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:32:42]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:33:11]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:33:40]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:33:45]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(24.5, 42.0, 93.19999694824219, 0.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[11:33:46]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:34:15]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:34:44]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:35:13]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:35:42]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:36:11]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:36:40]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:37:09]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:37:39]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:38:08]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:38:12]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(24.25, 41.900001525878906, 91.19999694824219, 104.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[11:38:13]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:38:42]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:39:12]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:39:41]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:40:10]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:40:39]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:41:08]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:41:37]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:42:06]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:42:35]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:42:40]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(23.5, 42.0, 93.0999984741211, 64.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[11:42:40]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:43:09]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:43:38]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:44:07]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:44:36]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:44:58]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(24.0, 42.400001525878906, 91.9000015258789, 119.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[11:44:59]  [ros2up_node][WARRING]:
+			send device state data failed!
+
+[11:45:00]  [systemState_node][ERROR  ]:Monitor Error!!!!!!!!!!!!!!!!!!!!
+			data:(24.0, 42.400001525878906, 91.9000015258789, 137.0, 100.0, 5.0, 0.0, 0.0, 0.0)
+[11:45:01]  [ros2up_node][WARRING]:
+			send device state data failed!
+

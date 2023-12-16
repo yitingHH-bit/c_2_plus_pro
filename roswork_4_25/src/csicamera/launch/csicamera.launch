@@ -1,0 +1,39 @@
+<!-- csicamera 
+hebing-->
+<launch>
+
+  <node pkg="csicamera" name="pubimage" type ="pubimage" output="screen" respawn="True">
+       <param name = "sureSendImg" type = "bool" value = "true" />
+       <param name = "upperHost" type = "string" value = "192.168.2.101" />
+       <param name = "upperPort" type = "int" value = "9339"/>
+
+       <param name = "width_get" type = "int" value = "1280" />
+       <param name = "height_get" type = "int" value = "720" />
+       <param name = "fps_get" type = "int" value = "30" />
+       <param name = "method" type = "int" value = "2" />
+
+       <param name = "sureDisplay" type = "bool" value = "true"/>
+       <param name = "width_display" type = "int" value = "1280" />
+       <param name = "height_display" type = "int" value = "720" />
+
+
+       <param name = "sureSave" type = "bool" value = "false"/>
+       <param name = "timeName" type = "bool" value = "true"/>
+       <param name = "savePath" type = "string" value = "//media//prototype//sda1//Pic"/>
+
+
+       <param name = "sureRect" type = "bool" value = "false"/>
+
+       <param name = "pubimg" type = "bool" value = "false"/>
+       <param name = "fps_pub" type = "int" value = "10" />
+
+
+       <param name = "lidar_height" type = "double" value = "10" />
+       <rosparam file="$(find csicamera)/config/camTparam.yaml" command="load" />  
+  </node>
+
+  <!--node pkg="mmlidar" name="mmlidar_pub" type="/home/ubuntu/roswork/src/mmlidar/launch/chuansu/cslidata_pub_txt_lee.py" respawn="True" output="screen"--> 
+
+  <node pkg="tf" type="static_transform_publisher" name="cameralink_to_baselink" args="0 0 0 0 0 0 base_link camera_link 100" />
+
+</launch>

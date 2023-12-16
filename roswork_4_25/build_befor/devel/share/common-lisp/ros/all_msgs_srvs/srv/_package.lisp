@@ -1,0 +1,10 @@
+(cl:defpackage all_msgs_srvs-srv
+  (:use )
+  (:export
+   "SETTINGCALLBACK"
+   "<SETTINGCALLBACK-REQUEST>"
+   "SETTINGCALLBACK-REQUEST"
+   "<SETTINGCALLBACK-RESPONSE>"
+   "SETTINGCALLBACK-RESPONSE"
+  ))
+

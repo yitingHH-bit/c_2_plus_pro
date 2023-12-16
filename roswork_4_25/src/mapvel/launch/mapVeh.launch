@@ -1,0 +1,26 @@
+<!-- mapVeh and mapLan -->
+<launch>
+
+  <node pkg="mapvel" name="map_lan" type ="MapLan" output="screen" respawn="True">
+       <param name = "pathnum" value = "7" />
+       <param name = "sureStopLine" value = "0" />
+       <param name = "lan_width" value = "3.5" />
+       <param name = "lan_long" value = "500" />
+       <param name = "lan_halflong" value = "500" />
+       <param name = "theta" value = "0" />
+       <param name = "interval" value = "25" />
+       <param name = "org_x" value = "-13.2" />
+       <param name = "org_y" value = "0" />      
+  </node>
+  <node pkg="mapvel" name="map_vehs" type ="MapVeh" output="screen" respawn="True">
+      <param name = "lidar_to_orgx" type = "string" value = "-13.2" />
+      <param name = "lidar_to_orgy" type = "int" value = "0" />
+
+      <param name = "scale_min_x" value = "-20" />
+      <param name = "scale_max_x" value = "20" />
+      <param name = "scale_min_y" value = "-20" />
+      <param name = "scale_max_y" value = "500" />
+      <param name = "fps_display" value = "10.0" />
+  </node>
+
+</launch>

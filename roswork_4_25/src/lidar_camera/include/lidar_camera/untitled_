@@ -1,0 +1,92 @@
+
+
+struct LanInfo{
+  uint32_t lannum;//车道号
+  uint32_t lantype;//车道类型
+  float lanwidth;//车道宽
+  Coord postion;//车道位置
+  QueueInfo queue;//排队信息
+  vector<StatisInfo> statis;//统计信息
+};
+
+
+vector<LanInfo> laninfo_all;//车道的信息
+vector<LanInfo>::iterator laninfo_allit_;
+
+
+
+struct StatisInfo{
+  uint8_t checknum;//检测带的编号，从零开始
+  float distance;//检测带的位置
+  float checkwidth;//检测带的宽度
+  bool isNewcar;//上一次是否有车在,没车为True,有车为False
+  uint8_t old_carid;//车的id号码
+  float arvSpeed;//平均车速
+  float arvCarLong;//平均车长
+  int carCount_sum;//总流量
+  int carCount_car;//小车流量
+  int carCount_bus;//中车流量
+  int carCount_tra;//大车流量
+  float arvTime;//车头时距
+  float arvOcc;//车道占有率
+};
+
+
+for(int i=0; i<Countlist.size();i++)
+  {//根据车道总数，来获取统计配置参数
+
+    LanInfo laninfo;//车道信息
+    // laninfo.lannum = i + 1;//车道号码
+    laninfo.lannum = Countlist[i];
+    // string str_lan = to_string(i+1);
+    string str_lan = to_string(Countlist[i]);
+    string param_name = "/LanParam/" + str_lan + "/type";
+    int lantype;
+    ros::param::get(param_name.c_str(),lantype);//获取车道类型的参数
+    laninfo.lantype = lantype;//车道类型
+    param_name = "/LanParam/" + str_lan + "/width";
+    int lanwidth;
+    ros::param::get(param_name.c_str(),lanwidth);//获取车道宽度参数
+    laninfo.lanwidth = lanwidth;//车道宽度
+    vector<float> coord;
+    param_name = "/LanParam/" + str_lan + "/coordinate";
+    ros::param::get(param_name,coord);//获取车道坐标参数
+    laninfo.postion.x = coord[0];
+    laninfo.postion.y = coord[1];//车道位置，停止线位置
+    laninfo.queue.isQue = false;//是否有排队
+
+    
+    //float checkDlong = 2;
+    //ros::param::get("/CheckDLong",checkbarLong);
+ 
+    //int checkcount=0;
+
+    //获取该车道检测点的统计设置
+    vector<float>  list_data;
+    param_name = "/StatisPosition/" + str_lan;
+    ros::param::get(param_name.c_str(),list_data);
+    for(int j=0;j<list_data[0];j++){
+      StatisInfo stat;
+      // stat.checknum = j;//检测带的编号
+      // stat.checkwidth = checkbarLong;//检测带的宽度
+      // stat.distance = list_data[j+1];
+      int jTemp = j * 3;
+
+      stat.checknum = list_data[jTemp+1];//检测带的编号
+      stat.checkwidth = list_data[jTemp+2];//检测带的宽度
+      stat.distance = list_data[jTemp+3];
+
+      stat.isNewcar = true;
+      laninfo.statis.push_back(stat);
+    }//统计消息
+    laninfo_all.push_back(laninfo);//每个道路的信息加入到类成员列表中
+  }
+
+
+
+laninfo.lannum = Countlist[i];
+
+ifstream fin(LanInfoPath)
+YAML::Node LanConfig = YAML::Load(fin);
+
+LanConfig

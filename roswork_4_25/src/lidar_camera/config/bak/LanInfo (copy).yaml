@@ -1,0 +1,52 @@
+##LanInfo param
+LanCount: 6
+LanParam:
+  "0": #绿化带,或者护栏
+    width: 4.0
+    long: 200
+    type: 0 
+    attribute: 0
+    maxspeed: 120
+    coordinate: [-4.0,40.0]
+  "1":
+    width: 10.5
+    long: 200
+    type: 0
+    attribute: 0
+    maxspeed: 80
+    coordinate: [-22.0,40]
+  "2":
+    width: 3.75
+    long: 200
+    type: 0
+    attribute: 0
+    maxspeed: 80
+    coordinate: [-11.5,40]
+  "3":
+    width: 3.75
+    long: 200
+    type: 0
+    attribute: 0
+    maxspeed: 80
+    coordinate: [-7.75,40]
+  "4":
+    width: 3.75
+    long: 200
+    type: 1
+    attribute: 0
+    maxspeed: 80
+    coordinate: [0,40]
+  "5":
+    width: 3.75
+    long: 200
+    type: 1
+    attribute: 0
+    maxspeed: 80
+    coordinate: [3.75,40]
+  "6":
+    width: 10.0
+    long: 200
+    type: 1
+    attribute: 0
+    maxspeed: 80
+    coordinate: [7.5,40]

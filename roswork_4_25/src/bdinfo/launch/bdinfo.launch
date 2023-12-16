@@ -1,0 +1,6 @@
+<!-- bdinfo -->
+<launch>
+
+  <node pkg="bdinfo" name="get_bdinfo" type ="get_bdinfo.py" output="screen" respawn="True"/>
+
+</launch>

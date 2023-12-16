@@ -1,0 +1,15 @@
+\subsubsection usage Usage
+\verbatim
+<node name="mapvel" pkg="mapvel" type="mapvel">
+  <param name="pathnum" type="double" value="4.0" />
+  <param name="sureStopLine" type="double" value="1.0" />
+  <param name="lan_width" type="double" value="3.2" />
+  <param name="lan_long" type="double" value="400.0" />
+  <param name="lan_halflong" type="double" value="200.0" />
+  <param name="org_x" type="double" value="-6.0" />
+  <param name="org_y" type="double" value="0.0" />
+  <param name="theta_deg" type="double" value="0.0" />
+  <param name="interval" type="double" value="25.0" />
+</node>
+\endverbatim
+

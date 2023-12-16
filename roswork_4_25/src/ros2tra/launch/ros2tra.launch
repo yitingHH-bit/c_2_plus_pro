@@ -1,0 +1,5 @@
+<!-- mmlidar -->
+<launch>
+  <node pkg="ros2tra" name="ros2tra" type ="ros2tra" respawn="True" output="screen"/>
+  <node pkg="lidar_camera" name="tra_setting_node" type="tra_setting.py" respawn="True" output="screen"/>
+</launch>
